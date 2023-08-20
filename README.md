@@ -1,6 +1,6 @@
 # Cybersecurity research slides 
 
-- [Talk SPI chips_2022.pdf](UYBHYS2022/Talk SPI chips.pdf)
+- [Talk SPI Chips in 2022](UYBHYS2022/Talk_SPI_chips.pdf)
 
 Will add more later...
 
